@@ -12,8 +12,10 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+<img width="815" height="223" alt="image" src="https://github.com/user-attachments/assets/8ef61d85-fe75-42eb-badb-5331d6b615b3" />
 
 ## Output
+<img width="811" height="208" alt="image" src="https://github.com/user-attachments/assets/9b4f80f9-2edc-411c-82e0-60813c7018c5" />
 
 ## Result
+<img width="811" height="208" alt="image" src="https://github.com/user-attachments/assets/d1a9a103-3ff5-4ecb-adaa-5c1121940078" />
